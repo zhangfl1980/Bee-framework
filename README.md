@@ -1,1 +1,2 @@
 # Bee-framework
+使用SpringCloud定义一个金融项目框架
